@@ -45,7 +45,6 @@ class TelaForca{
 
   atualizar(): void{
     window.location.reload();
-    //this.jogar = new Forca();
   }
 
   alteradorImg(): void{

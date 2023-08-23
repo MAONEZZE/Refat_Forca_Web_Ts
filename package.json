@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "cp -r src/assets dist && tsc"
+    
   },
   "author": "",
   "license": "ISC",
